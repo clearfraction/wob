@@ -1,5 +1,5 @@
 Name     : wob
-Version  : 0.13
+Version  : 0.14.2
 Release  : 1
 URL      : https://github.com/francma/wob
 Source0  : https://github.com/francma/wob/archive/refs/tags/%{version}.tar.gz
@@ -11,6 +11,7 @@ BuildRequires : gcc
 BuildRequires : systemd-dev
 BuildRequires : wayland-dev
 BuildRequires : wayland-protocols-dev
+BuildRequires : inih-dev
 
 %description
 A lighcklight/progress/anything b
