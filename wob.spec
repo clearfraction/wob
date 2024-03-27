@@ -1,5 +1,5 @@
 Name     : wob
-Version  : 0.14.2
+Version  : 0.15.1
 Release  : 1
 URL      : https://github.com/francma/wob
 Source0  : https://github.com/francma/wob/archive/refs/tags/%{version}.tar.gz
